@@ -1,0 +1,8 @@
+{
+  "contractAddress": "0x61b2d56645d697ac3a27c2fa1e5b26b45429d1a9",
+  "providerUrl": "https://rpc.ankr.com/polygon",
+  "privateKeyFilePath": "../data/private_keys.txt",
+  "contractAbiPath": "./abi.json",
+  "pause": { "min": 10, "max": 30 },
+  "order": [10, 5]
+}
